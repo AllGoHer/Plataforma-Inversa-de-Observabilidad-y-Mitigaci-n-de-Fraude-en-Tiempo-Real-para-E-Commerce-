@@ -1,1 +1,2 @@
-# Plataforma-Inversa-de-Observabilidad-y-Mitigaci-n-de-Fraude-en-Tiempo-Real-para-E-Commerce-
+# Plataforma Inversa de Observabilidad y Mitigación de Fraude en Tiempo Real para E-Commerce de Alta Volumetría
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
